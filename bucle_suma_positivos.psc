@@ -1,4 +1,6 @@
 Algoritmo bucle_suma_positivos
+
+	//Voy a añadir una linea para actualizar el trabajo
 	
 	Definir contador Como Entero;
 	definir x Como Entero;
