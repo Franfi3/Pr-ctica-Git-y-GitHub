@@ -1,6 +1,7 @@
 Algoritmo bucle_suma_positivos
 
-	//Voy a aÃ±adir una linea para actualizar el trabajo
+	//Voy a añadir una linea para actualizar el trabajo
+	//Linea para el git ignore
 	
 	Definir contador Como Entero;
 	definir x Como Entero;
